@@ -42,4 +42,4 @@ _Change Management/Creative Producer_**
 **Certifications:**<pre> 
 			 NHA-Phlebotomy Certified          National Healthcareer Association	2019
 		         IRS VITA Certified	          IRS			    	        2016 </pre>
- **Language:*** 	<pre>Spanish, fluent in written and verbal communication </pre>
+ **Language:**	    <pre>Spanish, fluent in written and verbal communication </pre>
