@@ -1,12 +1,13 @@
 ### Angel Toshiko VanStark
-#1205 Monte Vista Ave, Apt A • Las Cruces, NM • 415.886.5538 • angelvanstark@gmail.com
+# 1205 Monte Vista Ave, Apt A • Las Cruces, NM • 415.886.5538 • angelvanstark@gmail.com
 
-#RELEVANT SKILLS											
-Customer Service:        | Project Management:         | Community Organization:
-Phone Etiquette          | Waterfall, Agile            | TownHall
-Volunteer Management     | Project Outline Composition | Youth Engagement
-Customer Confidentiality | Management of Communications| Legislation composition 
-Culturally Aware Service | Microsoft Office Suite      | Event Planning
+# RELEVANT SKILLS
+------------------------- | ----------------------------- | ------------------------
+Customer Service: | Project Management:          | Community Organization:
+Phone Etiquette | Waterfall, Agile             | TownHall
+Volunteer Management | Project Outline Composition | Youth Engagement
+Customer Confidentiality | Management of Communications | Legislation composition 
+Culturally Aware Service | Microsoft Office Suite | Event Planning
 
 
 
